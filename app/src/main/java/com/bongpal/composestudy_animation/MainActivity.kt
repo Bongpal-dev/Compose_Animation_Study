@@ -16,7 +16,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             ComposeStudy_AnimationTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Ex_1_2(innerPadding)
+                    Ex_4_1(innerPadding)
                 }
             }
         }
